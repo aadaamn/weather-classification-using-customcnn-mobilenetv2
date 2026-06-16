@@ -15,7 +15,7 @@ A Machine Learning (ML) project for image Classification using Custom CNN and Mo
 - 4 different classes: Sunrise, Shine, Rain, Cloudy
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/sample-images-for-all-class.jpg" alt="Sample Images for All Classes" width="100%" />
+  <img src="sample-images-for-all-class.jpg" alt="Sample Images for All Classes" width="100%" />
   <br />
   <sub><em>Sample Images for All Classes</em></sub>
 </p>
@@ -44,14 +44,14 @@ A Machine Learning (ML) project for image Classification using Custom CNN and Mo
 
 ### Custom CNN Architecture Summary
 <p align="center">
-  <img src="/images/projects/image-classification-weather/custom-cnn-architecture-overview.jpg" alt="Custom CNN Architecture Summary" width="100%" />
+  <img src="custom-cnn-architecture-overview.jpg" alt="Custom CNN Architecture Summary" width="100%" />
   <br />
   <sub><em>Custom CNN Architecture Summary</em></sub>
 </p>
 
 ### MobileNetV2 Architecture Summary
 <p align="center">
-  <img src="/images/projects/image-classification-weather/mobilenetv2-architecture-overview.jpg" alt="MobileNetV2 Architecture Summary" width="100%" />
+  <img src="mobilenetv2-architecture-overview.jpg" alt="MobileNetV2 Architecture Summary" width="100%" />
   <br />
   <sub><em>MobileNetV2 Architecture Summary</em></sub>
 </p>
@@ -60,14 +60,14 @@ A Machine Learning (ML) project for image Classification using Custom CNN and Mo
 
 ### Similar Parameters Configurations
 <p align="center">
-  <img src="/images/projects/image-classification-weather/similar-parameters-configurations.jpg" alt="Similar Parameters Configurations" width="100%" />
+  <img src="similar-parameters-configurations.jpg" alt="Similar Parameters Configurations" width="100%" />
   <br />
   <sub><em>Similar Parameters Configurations For Both Models</em></sub>
 </p>
 
 ### Different Parameters Configurations
 <p align="center">
-  <img src="/images/projects/image-classification-weather/different-parameters-configurations.jpg" alt="Different Parameters Configurations" width="100%" />
+  <img src="different-parameters-configurations.jpg" alt="Different Parameters Configurations" width="100%" />
   <br />
   <sub><em>Different Parameters Configurations For Each Model</em></sub>
 </p>
@@ -78,19 +78,19 @@ A Machine Learning (ML) project for image Classification using Custom CNN and Mo
 ### Custom CNN
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/customcnn-overall-report.jpg" alt="Custom CNN Overall Report" width="100%" />
+  <img src="customcnn-overall-report.jpg" alt="Custom CNN Overall Report" width="100%" />
   <br />
   <sub><em>Overall Report for the Custom CNN model.</em></sub>
 </p>
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/custom-cnn-accuracy-loss-graph.jpg" alt="Custom CNN Training and Validation curves" width="100%" />
+  <img src="custom-cnn-accuracy-loss-graph.jpg" alt="Custom CNN Training and Validation curves" width="100%" />
   <br />
   <sub><em>Training and Validation curves for the Custom CNN model.</em></sub>
 </p>
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/customcnn-confusion-matrix.jpg" alt="Custom CNN Confusion Matrix" width="100%" />
+  <img src="customcnn-confusion-matrix.jpg" alt="Custom CNN Confusion Matrix" width="100%" />
   <br />
   <sub><em>Confusion Matrix for the Custom CNN model.</em></sub>
 </p>
@@ -98,19 +98,19 @@ A Machine Learning (ML) project for image Classification using Custom CNN and Mo
 ### MobileNetV2
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/mobilenet-overall-report.jpg" alt="MobileNetV2 Overall Report" width="100%" />
+  <img src="mobilenet-overall-report.jpg" alt="MobileNetV2 Overall Report" width="100%" />
   <br />
   <sub><em>Overall Report for the MobileNetV2 model.</em></sub>
 </p>
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/mobilenet-accuracy-loss-graph.jpg" alt="MobileNetV2 Training and Validation curves" width="100%" />
+  <img src="mobilenet-accuracy-loss-graph.jpg" alt="MobileNetV2 Training and Validation curves" width="100%" />
   <br />
   <sub><em>Training and Validation curves for the MobileNetV2 model.</em></sub>
 </p>
 
 <p align="center">
-  <img src="/images/projects/image-classification-weather/mobilenet-confusion-matrix.jpg" alt="MobileNetV2 Confusion Matrix" width="100%" />
+  <img src="mobilenet-confusion-matrix.jpg" alt="MobileNetV2 Confusion Matrix" width="100%" />
   <br />
   <sub><em>Confusion Matrix for the MobileNetV2 model.</em></sub>
 </p>
